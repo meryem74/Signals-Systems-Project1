@@ -1,6 +1,6 @@
 # İşaretler ve Sistemler - Ödev 1: İşaret Analizi ve DTMF Sentezi
 
-Bu proje, İstanbul Sağlık ve Teknoloji Üniversitesi (İSTÜN) Bilgisayar Mühendisliği bölümü **Sinyaller ve Sistemler** dersi kapsamında hazırlanan birinci ödev çalışmasıdır. Proje, analog işaretlerin dijital ortamda örneklenmesi, Nyquist teoremi ve DTMF (Çift Tonlu Çoklu Frekans) sinyallerinin sentezlenmesini konu almaktadır.
+Bu proje, İstanbul Sağlık ve Teknoloji Üniversitesi (İSTÜN) Bilgisayar Mühendisliği bölümü **İşaretler ve Sistemler** dersi kapsamında hazırlanan birinci ödev çalışmasıdır. Proje, analog işaretlerin dijital ortamda örneklenmesi, Nyquist teoremi ve DTMF (Çift Tonlu Çoklu Frekans) sinyallerinin sentezlenmesini konu almaktadır.
 
 ## 👥 Grup Üyeleri
 * **Meryem Sena Umutlu** - 240601066
