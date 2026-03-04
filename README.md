@@ -22,7 +22,7 @@ Bu bölümde belirlenen $f_0 = 135$ Hz temel frekansı kullanılarak aşağıdak
 ### 2. DTMF Sinyal Sentezi ve Arayüzü (Görev 2)
 Telefon tuş takımı seslerini üreten interaktif bir Python uygulamasıdır.
 * **Arayüz:** Tkinter kullanılarak 0-9, A-D, *, # tuşlarını içeren bir numpad tasarlanmıştır.
-* **Sentez:** Her tuşa basıldığında, o tuşa özgü düşük ve yüksek frekans gruplarından iki sinüs dalgası toplanarak ($x(t) = \sin(2\pi f_{low}t) + \sin(2\pi f_{high}t)$) çalınmaktadır.
+* **Sentez:** Her tuşa basıldığında, o tuşa özgü düşük ve yüksek frekans gruplarından iki sinüs dalgası toplanarak çalınmaktadır.
 * **Görselleştirme:** Üretilen sinyal anlık olarak zaman domaininde grafiklenmektedir.
 
 ---
